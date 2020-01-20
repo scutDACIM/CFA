@@ -1,4 +1,4 @@
-# Vehicle Light Signal (VLS) Dataset Introduction
+# Vehicle Light Signal (VLS) Dataset Information
 
 
 Our Vehicle Light Signal (VLS) dataset contains 4 common behaviours of vehicles: driving forward, braking, turning left, turning right. Each behaviour signal contains 2 classes: day and night, since the lighting signals are not the same when during the day and night. The specific label categories are as follows:
