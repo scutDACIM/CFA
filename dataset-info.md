@@ -35,7 +35,7 @@ If you use this dataset, please cite:
 
   title     = {Coarse-to-fine attention neural network for vehicle light signal detection},
 
-conference  = {International Joint Conference on Artificial Intelligence(IJCAI)},
+conference  = {International Joint Conference on Artificial Intelligence(IJCAI), In submission},
 
   year      = {2020},
   
