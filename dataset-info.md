@@ -28,6 +28,7 @@ https://github.com/scutDACIM/CFA/blob/master/Statistics.png
 You can download our data set from here(download link), including original images and labels. The original images are various vehicle light signals in the real scene taken from the driving recorder. The labels are in VOC format and each label file contains the vehicle light signal categories and locations.
 
 If you use this dataset, please cite:
+
 @article{ Vehicle Light Signal (VLS) Dataset,
 
   author    = {Shenao Zhang , Xin He , Lei Kuang, Bo Wu, Delu Zeng},
@@ -37,6 +38,7 @@ If you use this dataset, please cite:
 conference  = {International Joint Conference on Artificial Intelligence(IJCAI)},
 
   year      = {2020},
+  
 }
 
 For any questions related to this dataset, or If you would like to trial the More Efficient Labelling Tool (LabelImage) , please contact msxinhe@mail.scut.edu.cn
