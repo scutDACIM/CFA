@@ -33,7 +33,7 @@ If you use this dataset, please cite:
 
 @article{ Vehicle Light Signal (VLS) Dataset,
 
-  author    = {Shenao Zhang , Xin He , Lei Kuang, Bo Wu, Delu Zeng},
+  author    = {Shenao Zhang , Xin He , Lei Kuang, Delu Zeng, Bo Wu},
 
   title     = {Coarse-to-fine attention neural network for vehicle light signal detection},
 
